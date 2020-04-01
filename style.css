@@ -70,7 +70,7 @@ h2 {
 }
 
 .form-control small {
-  color: #e74c3c;
+  color:var(--error-color);
   position: absolute;
   bottom: 0;
   left: 0;
